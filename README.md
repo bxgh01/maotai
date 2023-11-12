@@ -12,4 +12,4 @@
 
 欢迎各位老哥进群**技术交流**（只交流技术，不谈茅台）
 
-[![点击加入TG群](https://img.shields.io/badge/Telegram-Group-blue)](https://t.me/bxgh01) [![GitHub stars](https://img.shields.io/github/stars/bxgh01/maotai.svg?style=social&label=Stars)](https://github.com/bxgh01/maotai.git)
+[![点击加入TG群](https://img.shields.io/badge/Telegram-Group-blue)](https://t.me/baxianguohai1) [![GitHub stars](https://img.shields.io/github/stars/bxgh01/maotai.svg?style=social&label=Stars)](https://github.com/bxgh01/maotai.git)
