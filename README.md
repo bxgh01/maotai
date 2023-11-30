@@ -6,7 +6,7 @@
 
 - 平台地址： [http://bxgh.pro](http://bxgh.pro) （支持自动预约，操作简单）
 
-- 抓包工具： [点击进入](https://github.com/bxgh01/maotai/releases/tag/BXGH) （[点击下载微信3.6.0.18](https://github.com/bxgh01/maotai/releases/download/WeChatSetup/WeChatSetup_3.6.0.18.exe)）
+- 抓包工具（11.30）： [点击进入](https://github.com/bxgh01/maotai/releases/tag/BXGH) （[点击下载微信3.6.0.18](https://github.com/bxgh01/maotai/releases/download/WeChatSetup/WeChatSetup_3.6.0.18.exe)）
 
 - 使用教程： [点击进入](https://github.com/bxgh01/maotai/wiki) 
 
